@@ -22,12 +22,14 @@ h3{
 }
 p{
     margin-bottom: 40px;
+
 }
 span{
     color: #000;
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .hot{
     width: 50%;
@@ -48,3 +50,25 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.drem{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+h2{
+    font-size: 40px;
+    margin-top: 50px;
+
+}
+h3{
+    font-size: 20px;
+    margin-bottom: 80px;
+
+
+}
+p{
+    color: #767676;
+}
+
+
